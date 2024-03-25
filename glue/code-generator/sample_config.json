@@ -1,0 +1,13 @@
+{
+  "source_database": "source_database",
+  "client_name": "client_name",
+  "source_table": "source_table",
+  "source_schema": "source_schema",
+  "description": "",
+  "load": "y",
+  "load_method": "merge",
+  "source_etl_view": "table1_vw",
+  "target_database": "targetdb",
+  "target_schema": "target_schema",
+  "target_table": "target_table"
+}
